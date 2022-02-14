@@ -1,0 +1,82 @@
+*{
+    margin:0;
+    padding: 0;
+    border: 0;
+    font-size: 65%;
+   
+}
+
+body{
+    background-color: black;
+    familia tipográfica: 'Raleway', sans-serif;
+}
+
+header{
+    color: white;
+    text-align:  center;
+}
+
+h1{
+    font-size: 7rem;
+}
+
+.img-iguana{
+    background-image: url("../img/bg-header.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 70rem;
+}
+
+.desc-section{
+    padding: 4rem;
+    width:80%;
+    margin: 0 auto;
+}
+
+.centrado{
+    display :inline-block;
+    width: 40%;
+    vertical-align: middle;
+    padding: 1rem;
+}
+
+.centrado p{
+    color:white;
+    font-size : 1.7rem;
+    text-align: justify;
+}
+
+.centrado img{
+    width: 4rem;
+}
+
+.caract {
+    padding: 2rem;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.caract i {
+    font-size: 4rem;
+}
+
+.caract p{
+    font-size: 2rem;
+    
+}
+
+.caract-sect {
+    display: inline-block;
+    width: 33%;
+    color: white;
+}
+
+footer{
+        font-size: 5rem;
+        text-align: center;
+        color: white;
+    }
+
+
+
+
